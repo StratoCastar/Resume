@@ -219,3 +219,5 @@ TSWLatexianTemp*
 # expex forward references with \gathertags
 *-tags.tex
 cv-sections/.DS_Store
+Specifics.txt
+cv-sections-FR/.DS_Store
