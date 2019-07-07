@@ -11,6 +11,7 @@
 *.cb
 *.cb2
 
+
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
@@ -219,5 +220,14 @@ TSWLatexianTemp*
 # expex forward references with \gathertags
 *-tags.tex
 cv-sections/.DS_Store
+
 Specifics.txt
+
 cv-sections-FR/.DS_Store
+
+cv-sections-FR-SG/.DS_Store
+
+cv-sections-EN-SG/.DS_Store
+
+
+
